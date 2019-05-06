@@ -1,0 +1,77 @@
+.rouge{
+    background-color: red; 
+    
+}
+
+.grism{
+    background-color: rgb(53, 53, 53);
+}
+
+.vert{
+    background-color: rgb(19, 97, 19);
+}
+
+.bleu{
+    background-color: blue;
+}
+
+.bleum{
+    background-color: rgb(6, 104, 161);
+}
+
+.orange{
+    background-color: orange;
+}
+
+.noir{
+    background-color: black;
+}
+
+.blanc{
+    background-color: white;
+}
+
+.jaune{
+    background-color: yellow;
+}
+
+.bleumauve{
+    background-color: royalblue;
+}
+
+
+.Dgrisrouge{
+    background-image: linear-gradient(to right,black,red);
+}
+
+.Dbleugris{
+    background-image: linear-gradient(to right,royalblue,black);
+}
+
+.Drougebleu{
+    background-image: linear-gradient(to right,red,royalblue);
+}
+
+.Dnoirvert{
+    background-image: linear-gradient(to right,black,royalblue);
+}
+
+.Dgrisnoir{
+    background-image: linear-gradient(to right,rgb(54, 54, 54),black);
+}
+
+.Dnoirgris{
+    background-image: linear-gradient(to right,black,rgb(54, 54, 54));
+}
+
+.DnoirgrisM{
+    background-image: linear-gradient(to middle, to top,rgb(54, 54, 54),black );
+}
+
+.Dtop{
+    background-image: linear-gradient(to left,rgb(66, 65, 65),rgb(161, 149, 149),rgb(66, 65, 65));
+}
+
+.Dmorronf{
+    background-image: linear-gradient(to bottom, rgb(58, 45, 20) , rgb(126, 90, 56) ,rgb(58, 45, 20))
+}

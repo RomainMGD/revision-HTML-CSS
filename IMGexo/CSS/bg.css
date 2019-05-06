@@ -1,0 +1,86 @@
+.bgnav{
+    background-image: url(../);
+}
+.navco{
+    color: rgb(4, 4, 119);
+}
+body{
+
+}
+
+.centre{
+    text-align: center;
+}
+
+.bgbody{
+    background-image: url(../Image/bgbody.jpg);
+    height: 655px;
+    text-align: center;
+}
+
+.textindex1{
+    margin-top: -580px;
+    color: rgb(140, 160, 160);
+}
+
+.textindex2{
+    margin-top: -35px;
+    color: rgb(140, 160, 160);
+}
+
+.textindex3{
+    margin-top: 300px;
+    color: rgb(140, 160, 160);
+}
+
+.logosword{
+    margin-right: 300px;
+    margin-top: -20px;
+}
+
+.centre{
+    width: 100%;
+
+}
+
+body{
+    background-image: url(../Images/Fond/bgaccueil.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.bgnav{
+    background-image: url(../Images/Fond/navbg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bgmili{
+    background-image: url(../Image/militairebg.jpg);
+    width: 100%;
+    height: 655px;
+}
+.accueille{
+    border: 2px solid black;
+    width: 100%;
+    height: 50%;
+    margin-top: -10%;
+}
+
+.bvn{
+    margin-top: 4%;
+}
+
+.mbgvert{
+    background-image: url(../Image/levert.png);
+    width: 100%;
+    height: 60%;
+    background-repeat: no-repeat;
+    position: relative;
+    background-size: cover;
+}
+
+.espace{
+    margin-left: 34%;
+}
+

@@ -1,0 +1,12 @@
+.Bgroove{
+    border: 8px groove grey;
+}
+
+.Bggris{
+    border: 4px ridge grey;
+}
+
+.Bbase{
+    border: 1px solid black;
+    
+}
